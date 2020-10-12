@@ -65,7 +65,7 @@ The tasks can be uploaded in bulk via the required file format. So the time gets
 
 You can export all your tasks by simply clicking on the export button, it will download Data.csv file containing all of your tasks in it. So you can have a record of all your tasks.
 
-<img src="./Capture8.PNG" height="auto" width="auto">
+<img src="./Capture8.png" height="auto" width="auto">
 
 ## Select any task and Start
 

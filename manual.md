@@ -6,7 +6,7 @@ Using a countdown clock when undertaking a certain project or task will force yo
 
 A web based **Countdown Timer** build to provide it's user a complete package to track your tasks. Interactive full-screen countdown timer!
 
-<img src="./Capture1.png" height="350px" width="950px">
+<img src="./Capture1.PNG" height="350px" width="950px">
 
 ## Features:
 
@@ -28,14 +28,14 @@ A web based **Countdown Timer** build to provide it's user a complete package to
 | --- | :-: | --: |
 
 
-<img src="./Capture2.png" height="100px" width="350px">
+<img src="./Capture2.PNG" height="100px" width="350px">
 
 ## Control Buttons
 
 - Play: Starting the countdown after you insert all the required perimeters.
 - Reset: Reset's all the values.
 
-<img src="./Capture3.png" height="70px" width="200px">
+<img src="./Capture3.PNG" height="70px" width="200px">
 
 ## Add multiple task to countdown
 
@@ -53,24 +53,24 @@ Set notification time in the **Alert before** text box. Add the seconds before y
 
 The tasks could be added manually by just adding task name and time.
 
-<img src="./Capture5.png" height="350px" width="750px">
+<img src="./Capture5.PNG" height="350px" width="750px">
 
 ## Upload data via .csv/.xls file
 
 The tasks can be uploaded in bulk via the required file format. So the time gets save and you can focus on your ongoing tasks.
 
-<img src="./Capture6.png" height="550px" width="750px">
+<img src="./Capture6.PNG" height="550px" width="750px">
 
 ## Export Tasks
 
 You can export all your tasks by simply clicking on the export button, it will download Data.csv file containing all of your tasks in it. So you can have a record of all your tasks.
 
-<img src="./Capture8.png" height="auto" width="auto">
+<img src="./Capture8.PNG" height="auto" width="auto">
 
 ## Select any task and Start
 
 Click any task to select and after it you can start/stop the task. Its that much easy.
 
-<img src="./Capture7.png" height="auto" width="auto">
+<img src="./Capture7.PNG" height="auto" width="auto">
 
 # Thank you for using

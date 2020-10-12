@@ -41,13 +41,13 @@ A web based **Countdown Timer** build to provide it's user a complete package to
 
 The user can add more than one tasks to the countdown web app. There is also an option to import .csv/.xls file to insert multiple data.
 
-<img src="./Capture4.png" height="350px" width="750px">
+<img src="./Capture4.PNG" height="350px" width="750px">
 
 ## Notification
 
 Set notification time in the **Alert before** text box. Add the seconds before you want to have a notification poped up, so you could be notified about your upcoming deadline.
 
-<img src="./Capture9.png" height="350px" width="750px">
+<img src="./Capture9.PNG" height="350px" width="750px">
 
 ## Adding multiple tasks manually
 
